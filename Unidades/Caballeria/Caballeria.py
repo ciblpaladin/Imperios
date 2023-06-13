@@ -1,0 +1,3 @@
+class Caballeria:
+
+    pass
